@@ -1,1 +1,1 @@
-![mlem](mlem.gif | width=300)
+<img src="mlem.gif" width="300" />
