@@ -1,1 +1,1 @@
-<img src="mlem.gif" width="300" />
+<img align="middle" src="mlem.gif" width="300" />
